@@ -1,6 +1,6 @@
 <h1 align="center">Hello! This is Akhil</h1>
 <h3 align="center">A Robotics Engineer destined to design innovative autonomous systems and solutions to solve hazardous problems</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/Akhilrajan-V/Akhilrajan-V/blob/main/MyEmoji_20221026_011531_70824.gif">
+<img align="right" alt="Coding" width="300" height="300" src="https://github.com/Akhilrajan-V/Akhilrajan-V/blob/main/MyEmoji_20221026_011531_70824.gif">
 
 - 🔭 I’m currently working on **Motion Planning and Mapping for the SPOT robot**
 
