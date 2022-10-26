@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Akhil</h1>
+<h1 align="center">Hello! I'm Akhil</h1>
 <h3 align="center">A Robotics Engineer destined to design innovative autonomous systems and solutions to solve hazardous problems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilrajan-v&label=Profile%20views&color=0e75b6&style=flat" alt="akhilrajan-v" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhilrajan-v" alt="akhilrajan-v" /></a> </p>
+---
 
 - 🔭 I’m currently working on **Motion Planning and Mapping for the SPOT robot**
 
